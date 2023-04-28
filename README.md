@@ -3,6 +3,8 @@ Modification of Apple Tracking and Visualizing Faces Project
 
 AR Face scanning and texture map using iPhone. 
 
+![sreenshot](https://github.com/eightifact/swiftVtuber/blob/main/FqaN_4vWcAArWwp.jpg)
+
 example video when used in combination with OBS Studio : https://www.youtube.com/watch?v=x0rdXJdUZWA
 
 Dark, Light, Green (Chroma Key) Background
